@@ -1,0 +1,37 @@
+{
+  "id": "a9d664eb-9c91-428f-8c95-0ccfb0e60557",
+  "name": "weatherinfo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "yahooWeatherForecast",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "adbfbaa9-036e-409e-a653-0b072efe0975",
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510381477475,
+  "fallbackIntent": false,
+  "events": []
+}

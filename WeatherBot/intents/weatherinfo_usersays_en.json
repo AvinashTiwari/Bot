@@ -1,0 +1,73 @@
+[
+  {
+    "id": "634f4acf-c7e5-451a-bc97-fa89934ac009",
+    "data": [
+      {
+        "text": "how is weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "new york",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9b0bb346-a8e9-42d4-b4a0-a3f718d78e33",
+    "data": [
+      {
+        "text": "Is ",
+        "userDefined": false
+      },
+      {
+        "text": "washington",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " sunny ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1510381477
+  },
+  {
+    "id": "f04f3150-6e64-4edf-a592-6cd77b0ab4b6",
+    "data": [
+      {
+        "text": "whats the weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "new york",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510381477
+  }
+]
