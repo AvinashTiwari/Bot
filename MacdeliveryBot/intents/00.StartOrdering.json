@@ -1,0 +1,28 @@
+{
+  "id": "567236fa-ce76-4b26-b699-ee8f4cf53475",
+  "name": "00.StartOrdering",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Would you like to order a meal or ala carte?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510928151,
+  "fallbackIntent": false,
+  "events": []
+}

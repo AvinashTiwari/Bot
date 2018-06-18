@@ -1,0 +1,64 @@
+[
+  {
+    "id": "b2ea8a24-36d8-418e-b435-0f2826c435e5",
+    "data": [
+      {
+        "text": "Please give me a ",
+        "userDefined": false
+      },
+      {
+        "text": "mc spicy",
+        "alias": "menu",
+        "meta": "@menu",
+        "userDefined": false
+      },
+      {
+        "text": " meal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510972619
+  },
+  {
+    "id": "b36bfe2e-280b-481d-b9c8-4b58949a85e1",
+    "data": [
+      {
+        "text": "big mac",
+        "alias": "menu",
+        "meta": "@menu",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1510972619
+  },
+  {
+    "id": "aeebd5a6-9e64-4125-9598-a8aca1a87d6f",
+    "data": [
+      {
+        "text": "Please give me a ",
+        "userDefined": false
+      },
+      {
+        "text": "big mac",
+        "alias": "menu",
+        "meta": "@menu",
+        "userDefined": false
+      },
+      {
+        "text": " meal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510972619
+  }
+]

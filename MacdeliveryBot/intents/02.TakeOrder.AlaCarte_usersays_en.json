@@ -1,0 +1,88 @@
+[
+  {
+    "id": "84ced4e9-2cb5-42b5-8cd5-1c5dcbf1ea0e",
+    "data": [
+      {
+        "text": "an ",
+        "userDefined": false
+      },
+      {
+        "text": "icecream",
+        "alias": "menu",
+        "meta": "@menu",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1510972894
+  },
+  {
+    "id": "3c1910fb-eee3-40d3-898a-d53950e40c6b",
+    "data": [
+      {
+        "text": "big mac",
+        "alias": "menu",
+        "meta": "@menu",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510972894
+  },
+  {
+    "id": "0a72feaa-f867-4f6f-be9f-84fc1a662f51",
+    "data": [
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cokes",
+        "alias": "menu",
+        "meta": "@menu",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510972894
+  },
+  {
+    "id": "74212f80-d35b-478a-9091-339a8207f2f0",
+    "data": [
+      {
+        "text": "coke",
+        "alias": "menu",
+        "meta": "@menu",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510972894
+  }
+]

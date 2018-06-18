@@ -1,0 +1,45 @@
+{
+  "id": "d038fd30-ec6c-4b5b-ae2c-bb55dbabfdb9",
+  "name": "04. NoteAddress",
+  "auto": true,
+  "contexts": [
+    "ctx_address"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ctx_address",
+          "parameters": {},
+          "lifespan": 0
+        }
+      ],
+      "parameters": [
+        {
+          "id": "070bc551-f924-45be-bea8-14e6c0e18167",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "myaddress",
+          "value": "$myaddress",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Thank you. It was great serving you. Your order shall be dispactched soon and you should receive it in 30 minutes. have a great day"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510975738,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "0543a678-75ee-44d0-8186-eb6a42edc925",
+    "data": [
+      {
+        "text": "my address",
+        "alias": "myaddress",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510975738
+  }
+]

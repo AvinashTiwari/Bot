@@ -1,0 +1,55 @@
+{
+  "id": "45df0cb5-72a2-497d-a20e-79efeb28ba29",
+  "name": "02.TakeOrder.AlaCarte",
+  "auto": true,
+  "contexts": [
+    "ctx_alacarte"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ctx_alacarte",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8cfacc71-12d7-4ca0-8c7e-dfdb24d9fa0c",
+          "required": true,
+          "dataType": "@menu",
+          "name": "menu",
+          "value": "$menu",
+          "isList": false
+        },
+        {
+          "id": "955b5017-370d-4f34-8e8d-a602dba40f4c",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [],
+          "defaultValue": "1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "$number $menu.original (s) added to your order. ANything else please?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510972894,
+  "fallbackIntent": false,
+  "events": []
+}

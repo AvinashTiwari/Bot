@@ -1,0 +1,34 @@
+{
+  "id": "29947333-fa4a-4ab2-9f2b-57f750f61f4a",
+  "name": "01.Choice.Meal",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ctx_meal",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Great. Let me know your choice (Big Mac, Cheese, Mc Spicy). All meals comes with french fries and a drink (Coke, 7 Up, green tea)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510929447,
+  "fallbackIntent": false,
+  "events": []
+}

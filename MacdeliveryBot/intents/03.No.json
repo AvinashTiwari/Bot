@@ -1,0 +1,44 @@
+{
+  "id": "6b2bdc92-36f1-4e92-9bcb-12b5d6fad936",
+  "name": "03.No",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ctx_alacarte",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "ctx_meal",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "ctx_address",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Great. That was a fantastic selection from our Menu. Please enter your address"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510975537,
+  "fallbackIntent": false,
+  "events": []
+}

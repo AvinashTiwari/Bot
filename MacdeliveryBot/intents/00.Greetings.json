@@ -1,0 +1,28 @@
+{
+  "id": "9887e5f9-b7eb-44e7-88a0-940cb58b89ef",
+  "name": "00.Greetings",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Welcome to McDelivery. Would you like to order?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510928053,
+  "fallbackIntent": false,
+  "events": []
+}

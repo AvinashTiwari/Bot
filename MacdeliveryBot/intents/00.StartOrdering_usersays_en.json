@@ -1,0 +1,62 @@
+[
+  {
+    "id": "3a260927-c690-4426-a537-9c9055a7a526",
+    "data": [
+      {
+        "text": "yes please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510928151
+  },
+  {
+    "id": "105d6533-b09f-4958-bc0b-2e6e1f083bae",
+    "data": [
+      {
+        "text": "I would like to order a meal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510928151
+  },
+  {
+    "id": "b795769c-cfb5-4555-879a-2f64adaf38a5",
+    "data": [
+      {
+        "text": "yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510928151
+  },
+  {
+    "id": "bf271b3f-ff63-487d-93a2-64a901a83d6d",
+    "data": [
+      {
+        "text": "Can you please take my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510928151
+  },
+  {
+    "id": "35ba1618-725d-4397-a8de-4bff5767aa09",
+    "data": [
+      {
+        "text": "I would like to order a burger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1510928151
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "ec3ee19f-7aaf-477a-9366-1d964eef7b50",
+  "name": "02.TakeOrder.Meal",
+  "auto": true,
+  "contexts": [
+    "ctx_meal"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ctx_meal",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "358c2b96-ee3a-4cad-a2f0-6ec7a881c349",
+          "required": false,
+          "dataType": "@menu",
+          "name": "menu",
+          "value": "$menu",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "$menu.original has been added to your order. Anything else please?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1510972619,
+  "fallbackIntent": false,
+  "events": []
+}

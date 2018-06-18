@@ -1,0 +1,55 @@
+[
+  {
+    "value": "ice cream",
+    "synonyms": [
+      "ice cream"
+    ]
+  },
+  {
+    "value": "cheese",
+    "synonyms": [
+      "cheese"
+    ]
+  },
+  {
+    "value": "icecream",
+    "synonyms": [
+      "icecream"
+    ]
+  },
+  {
+    "value": "desset",
+    "synonyms": [
+      "desset",
+      "ice cream, icecream, lava cake"
+    ]
+  },
+  {
+    "value": "drinks",
+    "synonyms": [
+      "drinks",
+      "coke",
+      "7 up",
+      "green tea"
+    ]
+  },
+  {
+    "value": "mc spicy",
+    "synonyms": [
+      "mc spicy"
+    ]
+  },
+  {
+    "value": "big mac",
+    "synonyms": [
+      "big mac"
+    ]
+  },
+  {
+    "value": "burger",
+    "synonyms": [
+      "burger",
+      "big mac, cheese, mc spicy, mcspicy, bigmac"
+    ]
+  }
+]
