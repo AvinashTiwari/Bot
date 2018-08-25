@@ -61,9 +61,4 @@ def makeResponse(req):
 # In[6]:
 
 
-if __name__ == '__main__':
-    os.getenv('PORT', 5000)
-    port = int(5000)
-    print("Application running on port %d" %port)
-    app.run(debug=False, port=port,host='0.0.0.0')
 
