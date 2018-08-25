@@ -61,4 +61,6 @@ def makeResponse(req):
 # In[6]:
 
 
+if __name__ == '__main__':
+    app.run(debug=False)
 
