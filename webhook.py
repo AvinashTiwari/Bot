@@ -39,7 +39,7 @@ def makeResponse(req):
     date = req.get('date')
     speech = "The forecast for city " + city + " for date " + date + " is"
     
-    r =  = requests("https://samples.openweathermap.org/data/2.5/weather?q="+city+"&appid=b6907d289e10d714a6e88b30761fae22")
+    r =  requests("https://samples.openweathermap.org/data/2.5/weather?q="+city+"&appid=b6907d289e10d714a6e88b30761fae22")
     json_object = r.json()
     weather = json_object['list']
     for i inrange(0,30):
