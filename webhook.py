@@ -30,7 +30,7 @@ def makeResponse(req):
     date = parameters.get("date")
     if city is None:
         return None
-    r=requests.get('http://api.openweathermap.org/data/2.5/forecast?q='+city+'&appid=06f070197b1f60e55231f8c46658d077')
+    r=requests.get('http://api.openweathermap.org/data/2.5/forecast?q='+city+'&appid=165c1e5a8c00a7d9586120f7f9a91b41')
     json_object = r.json()
     weather=json_object['list']
     for i in range(0,30):
@@ -41,7 +41,7 @@ def makeResponse(req):
     return {
     "speech": speech,
     "displayText": speech,
-    "source": "apiai-weather-webhook"
+    "source": "api-webhook"
     }
 
 if __name__ == '__main__':
